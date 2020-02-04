@@ -1,0 +1,5 @@
+com/tito/messageservice/dto/MessageDTO.class
+com/tito/messageservice/services/MessageService.class
+com/tito/messageservice/services/StaticMessageService.class
+com/tito/messageservice/controller/MessagesController.class
+com/tito/messageservice/MessageServiceApplication.class
